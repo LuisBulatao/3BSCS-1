@@ -2,7 +2,7 @@ public class Cat implements Pet {
 
     private int noLives;
 
-    private int getNoLives(){
+    public int getNoLives(){
         return noLives;
     }
 
