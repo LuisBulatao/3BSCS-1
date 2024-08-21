@@ -2,11 +2,11 @@ public class Dog implements Pet {
     private String breed;
 
     public String getBreed() {
-    return breed;
-}
+        return breed;
+    }
 
     public void setBreed(String breed) {
-        this.breed = this.breed;
+        this.breed = breed;
 
     }
 
